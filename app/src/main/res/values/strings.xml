@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="hint_word">Type your word&#8230;</string>
+    <string name="network_unavailable">Your network is unavailable.</string>
+    <string name="network_connected">Your network is available now.</string>
+    <string name="error_fetch_acronyms">Failed to fetch acronyms.</string>
+</resources>
